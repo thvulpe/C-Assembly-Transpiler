@@ -39,7 +39,7 @@ make build
 
 ```bash
 ./transpiler input_file output_file
-
+```
 ## 👨‍💻 Author
 
 Theodor Vulpe
