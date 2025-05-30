@@ -42,5 +42,5 @@ make build
 ```
 ## 👨‍💻 Author
 
-Theodor Vulpe
+Theodor Vulpe | 
 Student at University Politehnica of Bucharest – Faculty of Automatic Control and Computers
