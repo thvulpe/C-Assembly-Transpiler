@@ -34,7 +34,7 @@ Convert simple C-style statements into x86 assembly instructions. Focus areas in
 
 ```bash
 make build
-
+```
 ▶️ Run
 
 ```bash
